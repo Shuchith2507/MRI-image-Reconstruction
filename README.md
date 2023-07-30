@@ -33,3 +33,7 @@ Select all the images by going to particular dataset folder. Click Open.
 
 
 6) TO run again from first delete gans_training.avi first and run again.
+
+
+![generated-images-0050](https://github.com/Shuchith2507/MRI-image-Reconstruction/assets/115855123/e2e61a37-01e2-48ee-8092-6b7682c6add0)
+
